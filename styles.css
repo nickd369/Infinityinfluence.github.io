@@ -55,7 +55,7 @@ header {
 /* Parallax Section */
 .parallax {
     position: relative;
-    background: url('background.jpg') no-repeat center center/cover;
+    background: url('/ParallaxImages/DarkerMiami.jpg') no-repeat center center/cover;
     height: 100vh;
     display: flex;
     justify-content: center;
@@ -161,7 +161,7 @@ button:hover {
 
 
 .parallax {
-    background-image: url('/Parallax\ images/Darker Miami.jpg');
+    background-image: url('/ParallaxImages/DarkerMiami.jpg');
     background-attachment: fixed;
     background-position: center top; /* Keeps the focus on the top/middle */
     background-repeat: no-repeat;
